@@ -15,7 +15,6 @@ export default {
       {rel: 'icon', type: 'image/png', href: '/favicon.png'},
     ]
   },
-  css: [],
   tailwindcss: {
     cssPath: '~/assets/css/tailwind.less',
   },
