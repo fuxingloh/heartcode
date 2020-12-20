@@ -4,8 +4,8 @@
 </template>
 
 <script>
-import LearnPage from "@/components/learn/LearnPage";
-import LearnPageParentChild from "@/components/learn/LearnPageLayered";
+import LearnPage from "~/components/learn/LearnPage";
+import LearnPageParentChild from "~/components/learn/LearnPageLayered";
 
 export default {
   components: {LearnPageParentChild, LearnPage},

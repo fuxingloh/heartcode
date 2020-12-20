@@ -20,7 +20,7 @@ export default {
     cssPath: '~/assets/css/tailwind.less',
   },
   plugins: [
-    '@/plugins/vue-highlightjs.js',
+    '~/plugins/vue-highlightjs.js',
   ],
   components: true,
   buildModules: [
@@ -31,9 +31,6 @@ export default {
     '@nuxtjs/pwa',
     '@nuxt/content'
   ],
-  env: {
-    apiUrl: process.env.NODE_ENV === "production" ? 'https://api.heartcode.app' : 'http://localhost:4000',
-  },
   generate: {
     async routes() {
       const {$content} = require('@nuxt/content')

@@ -1,4 +1,4 @@
 import Vue from 'vue'
-import VueHighlightJS from 'plugins/vue-highlightjs'
+import VueHighlightJS from 'vue-highlightjs'
 
 Vue.use(VueHighlightJS)

@@ -1,6 +1,7 @@
 {
-  "name": "web",
+  "name": "heartcode",
   "version": "1.0.0",
+  "description": "This website contains the remanences of a multi module repo of systems that teach basic web programing with HTML, CSS, JavaScript facilitated through the use of Vue.js + Nuxt.js.",
   "private": true,
   "scripts": {
     "dev": "nuxt",

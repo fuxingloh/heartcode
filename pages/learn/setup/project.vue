@@ -135,7 +135,7 @@
 </template>
 
 <script>
-import OperatingSystemOptions from "@/components/learn/setup/OperatingSystemOptions";
+import OperatingSystemOptions from "~/components/learn/setup/OperatingSystemOptions";
 
 export default {
   components: {OperatingSystemOptions},

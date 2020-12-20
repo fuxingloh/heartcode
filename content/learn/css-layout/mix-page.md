@@ -59,6 +59,7 @@ lang: html
   background: white;
   border-color: #737373;
   border-bottom-width: 1px;
+  z-index: 1;
 }
 
 .profile {

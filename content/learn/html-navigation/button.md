@@ -8,9 +8,9 @@ code: "<a href=\"/somewhere\">\n  <button>Click Me</button>\n</a>"
 ```vue
 <template>
   <div>
-    <a href="/learn">
+    <a href="/learn/html-basic/heading">
       <button>
-        New Page
+        Heading Page
       </button>
     </a>
   </div>
